@@ -1,0 +1,12 @@
+{
+  "name": "rtl-and-jest-course",
+  "version": "1.0.0",
+  "description": "https://www.udemy.com/course/react-testing-library-and-jest/",
+  "scripts": {
+    "roles-notes": "npx rtl-book serve roles-notes.js",
+    "query-notes": "npx rtl-book serve query-notes.js",
+    "criteria-notes": "npx rtl-book serve criteria-notes.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
