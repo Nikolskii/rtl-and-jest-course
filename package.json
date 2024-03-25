@@ -5,7 +5,8 @@
   "scripts": {
     "roles-notes": "npx rtl-book serve roles-notes.js",
     "query-notes": "npx rtl-book serve query-notes.js",
-    "criteria-notes": "npx rtl-book serve criteria-notes.js"
+    "criteria-notes": "npx rtl-book serve criteria-notes.js",
+    "matcher-notes": "npx rtl-book serve matcher-notes.js"
   },
   "author": "",
   "license": "ISC"
